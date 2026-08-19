@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=DIRECTORY.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=DIRECTORY.SchDoc|Designator=Block Diagram|SchDesignator=Block Diagram|FileName=BLOCK_DIAGRAM.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=BLOCK_DIAGRAM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DIRECTORY.SchDoc|Designator=Cover Page|SchDesignator=Cover Page|FileName=COVER_PAGE.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=COVER_PAGE.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DIRECTORY.SchDoc|Designator=Microcontroller Processing Unit|SchDesignator=Microcontroller Processing Unit|FileName=CONTROL_MCU.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=CONTROL_MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DIRECTORY.SchDoc|Designator=Power Supply|SchDesignator=Power Supply|FileName=POWER_SUPPLY.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=POWER_SUPPLY.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=DIRECTORY.SchDoc|FileName=PCB_ManufactureDiagram.SchDoc|SheetNumber=6
