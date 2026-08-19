@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_PokeBot.PcbDoc   29/4/2026  11:36:18
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_PokeBot.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.65mm (26mil)                                            Round             4         PTH        9.88mm (0.39inch)
+T2      0.7mm (28mil)                                             Round             6         PTH        40.79mm (1.61inch)
+T3      0.8mm (31mil)                                             Round             2         PTH        2.00mm (0.08inch)
+T4      1mm (39mil)                                               Round             30        PTH        147.32mm (5.80inch)
+T5      1.1mm (43mil)                                             Round             3         PTH        5.08mm (0.20inch)
+T6      1.3mm (51mil)                                             Round             6         PTH        30.75mm (1.21inch)
+T7      1.45mm (57mil)                                            Round             2         PTH        20.94mm (0.82inch)
+T8      1.5mm (59mil)                                             Round             8         PTH        106.81mm (4.20inch)
+T9      3mm (118mil)                                              Round             2         PTH        96.01mm (3.78inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              63
+
+Total Processing Time (hh:mm:ss) : 00:00:00
